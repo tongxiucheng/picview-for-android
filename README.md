@@ -21,3 +21,15 @@ If you have suggestions for new features, let me know by creating a new issue un
 
 To get the tools, plugins and the SDKs necessary to build Android apps, follow these instructions:
 http://developer.android.com/sdk/installing.html
+picview-for-android 是安卓系统上开源的图片查看器。目前的基本功能只有：下载、缓存、展示照片以及存储到谷歌 PicasaWeb。
+
+具有以下功能：
+
+只能够通过 wifi 下载图片
+会限制缓存
+能够使用不同的 Picasa 账户登录
+支持 Flickr
+支持 Smugmug
+支持在设备上查看图片
+能够全屏查看图片
+能够缩放全屏照片
